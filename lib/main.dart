@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         body: SafeArea(
           child: Column(
             children: [
-              const SizedBox(height: 50),
+              const SizedBox(height: 30),
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
@@ -170,7 +170,7 @@ class MyApp extends StatelessWidget {
                 ),
               ),
               const SizedBox(
-                height: 85,
+                height: 50,
               ),
               Container(
                 height: 50,
